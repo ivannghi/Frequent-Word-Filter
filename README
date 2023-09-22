@@ -1,3 +1,3 @@
-#To use the Compression Tool, open the Makefile and enter in the number of top words you would like to 
-# get the result for, the files you would like to read in, an output file(or printed to the terminal).
+#To use the Word Counter, open the Makefile and enter in the number of top words you would like to 
+# get the result for, the files you would like to read in, and an output file(or printed to the terminal).
 # The result should be printed out.
